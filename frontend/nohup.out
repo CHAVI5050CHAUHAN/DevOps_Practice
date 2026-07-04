@@ -1,0 +1,41 @@
+
+> frontend@0.0.0 dev
+> vite --host
+
+
+  VITE v4.5.14  ready in 339 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://172.31.11.13:5173/
+9:54:29 AM [vite] .env.local changed, restarting server...
+9:54:29 AM [vite] server restarted.
+9:59:00 AM [vite] .env.local changed, restarting server...
+9:59:00 AM [vite] server restarted.
+
+> frontend@0.0.0 dev
+> vite --host
+
+Port 5173 is in use, trying another one...
+
+  VITE v4.5.14  ready in 724 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: http://172.31.11.13:5174/
+npm error Missing script: "start"
+npm error
+npm error Did you mean one of these?
+npm error   npm star # Mark your favorite packages
+npm error   npm stars # View packages marked as favorites
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run
+npm error A complete log of this run can be found in: /home/ubuntu/.npm/_logs/2026-07-03T10_14_33_212Z-debug-0.log
+
+> frontend@0.0.0 dev
+> vite --host
+
+
+  VITE v4.5.14  ready in 328 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://172.31.11.13:5173/
